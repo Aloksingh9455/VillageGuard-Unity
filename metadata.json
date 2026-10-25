@@ -1,0 +1,6 @@
+{
+  "name": "Village Guard - 3D Tower Defense Studio & Playable Game",
+  "description": "Playable 3D Medieval Tower Defense game alongside the complete 20-part Unity C# development toolkit, scripts, balance simulator, and editor blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
